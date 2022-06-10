@@ -1,10 +1,11 @@
 ## Hola Bash 
-## /\\\\\\\\ ◇──────── | VPS~BO  1.0m | ─────────◇ //\//\
+## /\\\\\\\\ ◇──────── | VPS~BO  2.0a | ─────────◇ //\//\
 
 __Recomendado__
 - Ubuntu 16 , 18 , 20 x64
-- Versión 1.0m
-
+- Versión 2.0a
+- V.A 2.0
+- V.A 1.0m
 ___  _Actualize los Paquetes del Sistema e Instale el SCRIPT____
 
 ```apt update -y; apt upgrade -y; wget https://raw.githubusercontent.com/FOX-GOD/ADM-WOLI/main/NowNew/instalscript.sh; chmod +x instalscript.sh;./instalscript.sh```
