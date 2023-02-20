@@ -27,7 +27,7 @@ ___Based on___
  ## ㅤ
  
 ___Credits___
-  <P><b><i>👥 To everyone who gave me advice and ideas.👥</i></b></p>
+  <P><b><i>👥 To everyone who gave me advice and ideas, thanks.👥</i></b></p>
 
 ___Follow Us!___
 
