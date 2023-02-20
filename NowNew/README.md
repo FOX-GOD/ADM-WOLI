@@ -2,7 +2,7 @@
 ## /\\\\\\\\ ◇──────── | VPS~BO  3.0.0 | ─────────◇ //\//\
 
 __Recomendado__
-- Ubuntu 16 , 18 , 20 x64
+- Ubuntu 16 , 18 , 20  amd/intel/x86_64
 - V.A 2.0a
 - V.A 2.0
 - V.A 1.0m
