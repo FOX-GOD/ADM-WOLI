@@ -33,6 +33,6 @@ ___Follow Us!___
 
  <p>    
 <div class="div2">
- <span><a href="https://t.me/s/VPS_manager"><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="50"height="50"/></a></span>
+ <span><a href="https://t.me/s/TestS_BO_VPSs"><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="50"height="50"/></a></span>
  </div>
  </p>
