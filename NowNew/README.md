@@ -17,7 +17,7 @@ ___Based on___
 <div class="div1">
   <span><a href=""><img src="https://github.com/FOX-GOD/Control/blob/main/images/icons8-linux.gif?raw=true" alt=""width="50"height="50"/></a></span>
   <span><a href=""><img src="https://github.com/FOX-GOD/Control/blob/main/images/ubuntu.gif?raw=true" alt=""width="50"height="50"/></a></span>
-  <span><a href=""><img src="https://github.com/FOX-GOD/Control/blob/main/images/iconos1-ssh.png?raw=true" alt=""width="50"height="50"/></a></span>
+  <span><a href=""><img src="https://github.com/FOX-GOD/Control/blob/main/images/Developersaurio.png?raw=true" alt=""width="50"height="50"/></a></span>
   <span><a href=""><img src="https://github.com/FOX-GOD/Control/blob/main/images/terminal2.gif?raw=true" alt=""width="50"height="50"/></a></span>
   <span><a href=""><img src="https://github.com/FOX-GOD/Control/blob/main/images/icons8-internet.gif?raw=true" alt=""width="50"height="50"/></a></span>
   <span><a ><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/business-3d-browser-1.png?raw=true" alt=""width="50"height="50"/></a></span>
