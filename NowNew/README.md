@@ -1,9 +1,9 @@
 ## Hola Bash 
-## /\\\\\\\\ ◇──────── | VPS~BO  2.0a | ─────────◇ //\//\
+## /\\\\\\\\ ◇──────── | VPS~BO  3.0.0 | ─────────◇ //\//\
 
 __Recomendado__
 - Ubuntu 16 , 18 , 20 x64
-- Versión 2.0a
+- V.A 2.0a
 - V.A 2.0
 - V.A 1.0m
 ___  _Actualize los Paquetes del Sistema e Instale el SCRIPT____
