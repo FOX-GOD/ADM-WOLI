@@ -1,7 +1,5 @@
 #!/bin/bash
 #1/02/2022
-
-clear
 clear
 msg -bar
 rm -rf /etc/newadm/demo-ssh 2>/dev/null
@@ -77,7 +75,7 @@ touch /etc/newadm/demo-ssh/$name
 echo "senha: $pass" >> /etc/newadm/demo-ssh/$name
 echo "data: ($tmp)Minutos" >> /etc/newadm/demo-ssh/$name
 msg -bar2
-echo -e "\033[1;93m ¡ USUARIO TEMPORAL CREADO x MINUTOS (VPS-Bu By @W) !\e[0m"
+echo -e "\033[1;93m ¡ USUARIO TEMPORAL CREADO x MINUTOS !\e[0m"
 msg -bar2
 echo -e "\033[1;36m => Vps Ip: \033[0m$(meu_ip) " 
 echo -e "\033[1;36m => Usuario: \033[0m$name"
